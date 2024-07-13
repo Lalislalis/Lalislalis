@@ -6,7 +6,7 @@
 - 🧠  Multidisciplinary and a lifelong learner
 - 💚Citizen of the world brazilian by soul💛
 - 🌎 **Sustainability** and **innovation** align
-- 🙆‍♀️ **Girl UP** member 
+- 🙆‍♀️✨ **Girl UP** member 
 
 ### Language and Tools
 
@@ -39,7 +39,7 @@
 
 <img src="imagens/42a79144-d7d2-456a-ad86-f9b93b8b02cd.gif" src="imagens/Amazing.jpg" width="200px" height="200px" align="left"/> </img>
 
-readme in progress...
+<!---readme in progress...--->
 <!---
 Lalislalis/Lalislalis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
