@@ -37,8 +37,8 @@
 <img src="imagens/download.gif" width="40px" height="40px" align="center"/></img>
  **Fun facts:** n°1 playlist maker (according to myself), bad gamer as a hobbie and a capy lover ₍ᐢ•(ܫ)•ᐢ₎
 
-<img src="imagens/42a79144-d7d2-456a-ad86-f9b93b8b02cd.gif" width="450px" height="200px" align="left"/> </img>
-<img src="imagens/Amazing.jpg" width="450px" height="200px" align="right"/> </img>
+<img src="imagens/42a79144-d7d2-456a-ad86-f9b93b8b02cd.gif" width="200px" height="200px" align="center"/> </img>
+
 
 <!---
 Lalislalis/Lalislalis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
